@@ -3,7 +3,7 @@
 A modern, responsive, and visually appealing restaurant website designed to showcase delicious food, menu items, special offers, customer reviews, and online reservations.
 
 🔗 Live Demo:
-https://your-github-pages-link-here
+https://isaac1376.github.io/Restoraunt/
 
 <img width="1672" height="941" alt="ChatGPT Image Jun 24, 2026, 10_48_55 AM" src="https://github.com/user-attachments/assets/9732e35a-3087-4da2-9395-df104cb21d28" />
 
