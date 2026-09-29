@@ -92,6 +92,8 @@ Restaurant-Website/
 
 ---
 
+<img width="736" height="1308" alt="AlclipMaster" src="https://github.com/user-attachments/assets/d37a0876-47df-4bfb-b987-10433c1a1af0" />
+
 ## 📸 Highlights
 
 ✅ Modern Restaurant Interface
